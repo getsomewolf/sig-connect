@@ -1,0 +1,6 @@
+[submodule "encomendas-adm-feature"]
+	path = encomendas-adm-feature
+	url = https://github.com/getsomewolf/encomendas-adm-feature.git
+[submodule "encomendas-feature"]
+	path = encomendas-feature
+	url = https://github.com/getsomewolf/encomendas-feature.git
